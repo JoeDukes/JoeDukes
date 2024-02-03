@@ -1,4 +1,4 @@
-### ![Sailboat Icon](./images/sailboat-50px.svg) Joe Dukes
+# ![Sailboat Icon](./images/sailboat-50px.svg) Joe Dukes
 
 <!--
 **JoeDukes/JoeDukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
